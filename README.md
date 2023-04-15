@@ -1,2 +1,4 @@
 # group-1
-Hello World
+
+**Hello World**
+[ WEEK 1 ] 
